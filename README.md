@@ -1,1 +1,1 @@
-# rust_exercise
+# rust_exercise_structure
